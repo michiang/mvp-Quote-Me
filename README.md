@@ -1,2 +1,5 @@
-# mvp-You-Shift
-Shift Scheduler made with React, Node.js, Express, MongoDB.
+# Hack Reactor MVP Project: QuoteMe
+Quote Generator
+
+Front-end: Angular
+Back-end: Node.js, Express, MongoDB
